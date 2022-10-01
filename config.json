@@ -1,0 +1,9 @@
+{
+	"ip":"Lifesteal_1_.aternos.me",
+	"port": 32891,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register sus69420 sus69420",
+	"login-cmd":"/login sus69420"
+}
